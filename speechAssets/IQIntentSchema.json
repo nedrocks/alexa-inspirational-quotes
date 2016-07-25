@@ -1,10 +1,7 @@
 {
   "intents": [
     {
-      "intent": "TellMeAQuoteIntent"
-    },
-    {
-      "intent": "WhosThereIntent"
+      "intent": "InspireMeIntent"
     },
     {
       "intent": "AMAZON.HelpIntent"

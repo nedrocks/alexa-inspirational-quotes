@@ -1,0 +1,3 @@
+InspireMeIntent with a quote
+InspireMeIntent for a quote
+InspireMeIntent for another quote

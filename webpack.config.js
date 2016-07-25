@@ -2,13 +2,13 @@ var fs = require('fs'),
     path = require('path');
 
 module.exports = {
-  entry: fs.readdirSync(path.join(__dirname, './lambdas'))
+  entry: fs.readdirSync(path.join(__dirname, './src/lambdas'))
        .filter(filename => /\.js$/.test(filename))
        .map(filename => {
          var entry = {};
          entry[filename.replace('.js', '')] = path.join(
            __dirname,
-           './lambdas/',
+           './src/lambdas/',
            filename
          );
          return entry;

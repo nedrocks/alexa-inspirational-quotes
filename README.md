@@ -1,5 +1,7 @@
-Alexa Jeopardy
-==============
+Alexa Inspirational Quotes
+==========================
+
+An app I submitted to Alexa that reads random inspirational quotes.
 
 # Notes
 
