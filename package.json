@@ -1,7 +1,7 @@
 {
   "name": "alexa-jeopardy",
   "version": "0.0.0",
-  "description": "Simple alexa jeopardy app",
+  "description": "Simple alexa inspirational quotes app",
   "main": "index.js",
   "scripts": {
     "start": "webpack --watch",
@@ -9,17 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nedrocks/alexa-jeopardy.git"
+    "url": "git+https://github.com/nedrocks/alexa-inspirational-quotes.git"
   },
   "author": "Ned Rockson <nedrocks@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nedrocks/alexa-jeopardy/issues"
+    "url": "https://github.com/nedrocks/alexa-inspirational-quotes/issues"
   },
-  "homepage": "https://github.com/nedrocks/alexa-jeopardy#readme",
+  "homepage": "https://github.com/nedrocks/alexa-inspirational-quotes#readme",
   "dependencies": {
     "alexa-app": "^2.3.4",
-    "alexa-utterances": "^0.2.1",
     "express": "^4.14.0"
   },
   "devDependencies": {
